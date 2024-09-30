@@ -70,7 +70,7 @@ div.preparation-time {
 
 div.preparation-label {
   margin: auto;
-  padding: 30px;
+  padding: 20px;
 }
 
 div.ingredients-label{
@@ -98,7 +98,7 @@ h4 {
     font-family: "Outfit";
     font-weight: 700;
     line-height: 1.1;
-    font-size: 20px;
+    font-size: 25px;
   }
 
 .table-description{
@@ -138,27 +138,26 @@ h3 {
 
 table {
     width: 100%;
+    line-height: 2.1;
 }
 
 table, th, td {
     text-align: left;
     font-family: "Outfit";  
-    padding-top: 10px;
-    line-height: 2.1;
     border-bottom: 1px solid #dfdede;
     border-collapse: collapse;
-  }
+}
 
-  #nutrient {
+#nutrient {
     color: hsl(30, 10%, 34%);
     font-weight: 500;
     padding: 5px 40px;
-  }
+}
 
-  #measurement {
-    color: hsl(332, 51%, 32%);
+#measurement {
+    color: hsl(14, 45%, 36%);
     font-weight: 700;
     padding: 0px 100px;
-  }
+}
 
 
